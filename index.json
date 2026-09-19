@@ -1,7 +1,14 @@
-[
-  {
-    "id": "sa-event-scout",
-    "name": "San Antonio Cultural Event Lead Scout",
-    "description": "Finds and qualifies public San Antonio event leads for sponsor-branded experiential photo activations, then drafts evidence-based outreach."
-  }
-]
+{
+  "skillset_name": "Mark's Personal Skillset",
+  "description": "Personal skills for the Gamut app.",
+  "version": "1.0.0",
+  "skills": [
+    {
+      "id": "sa-event-scout",
+      "name": "San Antonio Cultural Event Lead Scout",
+      "path": "sa-event-scout/",
+      "description": "Finds and qualifies public San Antonio event leads for sponsor-branded experiential photo activations, then drafts evidence-based outreach."
+    }
+  ],
+  "agents": []
+}
