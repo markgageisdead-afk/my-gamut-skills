@@ -1,0 +1,28 @@
+---
+name: San Antonio Cultural Event Lead Scout
+description: Tracks San Antonio event spaces, non-profits, and micro-festivals to identify highly valuable lead activation opportunities for corporate sponsorships.
+---
+
+# San Antonio Cultural Event Lead Scout
+
+## Core Objective
+Identify local markets, pop-ups, festivals, and cultural events needing experiential photo activations.
+
+## Skillset Configuration
+
+### 1. Web Scraping & Monitoring
+* **Target Platforms:** Daily track event listing platforms (e.g., Eventbrite, San Antonio Current, Visit San Antonio)
+* **Target Keywords:** "pop-up market", "art vendor market", "gala", "charity run", "First Friday", "Second Saturday", "cultural festival", "chili cook-off".
+* **Data Extraction Fields:** Event Name, Organizer Name, Contact Email/Phone, Venue, and Date.
+
+### 2. Lead Qualification Logic
+* **Priority Tagging:** IF the event has "vendors" or "sponsors" listed but NO mention of a photo booth, tag as `[HIGH PRIORITY]`.
+* **Niche Focus Areas:** Fiesta-themed corporate parties, Quinceañeras, high-end high school prom committees, and UTSA tailgating/alumni groups.
+
+### 3. Outside-the-Box Outbound Angle
+* **Sponsorship Asset Pitch:** Frame the activation to the organizer as a monetization tool: "Get a local business to sponsor the photo booth; the sponsor gets their logo on every digital printout, and you get a free crowd activator."
+
+## Communication Template
+Use the following copy for initial outreach to qualified leads:
+
+> "Hey [Organizer Name], noticed you are putting together the [Event Name] at [Venue, e.g., the Pearl District / Brick at Blue Star]. Large crowds love capturing these moments. If you have sponsors lined up, we can brand every photo with their logo—helping you secure higher sponsor tiers while keeping your attendees buzzing. Do you have a photo activation locked in for [Date] yet?"
