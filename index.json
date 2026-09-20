@@ -8,6 +8,12 @@
       "name": "San Antonio Cultural Event Lead Scout",
       "path": "sa-event-scout/",
       "description": "Finds and qualifies public San Antonio event leads for sponsor-branded experiential photo activations, then drafts evidence-based outreach."
+    },
+    {
+      "id": "sa-corporate-activation-scout",
+      "name": "San Antonio Corporate Activation Scout",
+      "path": "sa-corporate-activation-scout/",
+      "description": "Finds public B2B triggers in San Antonio for grand openings, expansions, anniversaries, and luxury real-estate events, then drafts outreach for experiential activation opportunities."
     }
   ],
   "agents": []
