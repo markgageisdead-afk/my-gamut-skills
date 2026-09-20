@@ -14,6 +14,36 @@
       "name": "San Antonio Corporate Activation Scout",
       "path": "sa-corporate-activation-scout/",
       "description": "Finds public B2B triggers in San Antonio for grand openings, expansions, anniversaries, and luxury real-estate events, then drafts outreach for experiential activation opportunities."
+    },
+    {
+      "id": "sa-hospitality-experience-hunter",
+      "name": "San Antonio Hospitality Experience Hunter",
+      "path": "sa-hospitality-experience-hunter/",
+      "description": "Finds public San Antonio hospitality and retail opportunities for recurring photo-booth residencies, seasonal activations, and foot-traffic partnerships."
+    },
+    {
+      "id": "sa-luxury-retail-popup-scout",
+      "name": "San Antonio Luxury Retail Pop-Up Scout",
+      "path": "sa-luxury-retail-popup-scout/",
+      "description": "Finds public San Antonio boutique retail, luxury storefront, and pop-up opportunities for premium photo activations and branded foot-traffic experiences."
+    },
+    {
+      "id": "sa-community-event-scout",
+      "name": "San Antonio Community Event Scout",
+      "path": "sa-community-event-scout/",
+      "description": "Finds public San Antonio HOA, apartment, neighborhood, and community events that may benefit from recurring photo activations."
+    },
+    {
+      "id": "sa-sports-fan-experience-scout",
+      "name": "San Antonio Sports Fan Experience Scout",
+      "path": "sa-sports-fan-experience-scout/",
+      "description": "Finds public San Antonio sports, fan, tailgate, and athletic events for branded photo activations and sponsor experiences."
+    },
+    {
+      "id": "sa-luxury-real-estate-event-scout",
+      "name": "San Antonio Luxury Real-Estate Event Scout",
+      "path": "sa-luxury-real-estate-event-scout/",
+      "description": "Finds public San Antonio luxury real-estate openings, broker previews, model-home events, and property showcases for premium photo activations."
     }
   ],
   "agents": []
